@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Advithiya Here <img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif?raw=1" width="35vw"/>
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
@@ -76,6 +76,7 @@ I'm a Information science & Engineering student who is passionate about writing 
 
 <h1 align="center">
 ✨ Where you can find me ✨
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 <p align="center">
   <br/>
   <a href="https://www.linkedin.com/in/advithiya-v-693827278/">
