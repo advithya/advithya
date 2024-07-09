@@ -1,4 +1,4 @@
-### Hi there 👋 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif?raw=1" height="02vw" width="02vw"/> Avithiya Here</p>
+### Hi there 👋 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif?raw=1" height="10vw" width="10vw"/> Avithiya Here</p>
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
