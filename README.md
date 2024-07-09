@@ -104,6 +104,5 @@ I'm a Information science & Engineering student who is passionate about writing 
 <h3>Thanks for Stopping by!! 😊</h3>
 
 
----
-⭐️ From [Advithiya V](https://github.com/advithya) 
+
 
