@@ -6,9 +6,9 @@ I'm a Information science & Engineering student who is passionate about writing 
 
 - 🔭 I’m currently a ISE student at Adhichunchanagiri Institute Of Technology(AIT).
 - 📚 I’m currently learning  backend and app development using Flutter and  web development using ReachJS and MongoDB.
-- 👯 I’m looking for a software development internship. 
+- 👯 I’m looking for a software development internship. <br>
 
-<br/>
+
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <br>
