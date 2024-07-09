@@ -5,7 +5,7 @@
 I'm a Information science & Engineering student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a ISE student at Adhichunchanagiri Institute Of Technology(AIT).
-- 📚 I’m currently learning  backend and app development using Flutter and  web development using ReachJS and MongoDB.
+- 📚 I’m currently learning app development using Flutter and  web development using ReactJS and MongoDB.
 - 👯 I’m looking for a software development internship. <br>
 
 
