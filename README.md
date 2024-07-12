@@ -1,5 +1,4 @@
-### Hi there 👋 <p> <img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif?raw=1" height="30vw" width="30vw"/>Advithiya Here</p><img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif?raw=1" height="30vw" width="30vw"/>
-
+### <p> Hi there 👋 <img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif?raw=1" height="30vw" width="30vw"/>Advithiya Here</p>
 <img width="32%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" /><br>
 
 I'm a Information science & Engineering student who is passionate about writing code, solving problems, automating stuff, and building software.
