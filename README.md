@@ -34,7 +34,7 @@ I'm a Information science & Engineering student who is passionate about writing 
 <img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
 </td>
  <td width="20%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
+        <span>𝗖𝗦𝗦</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
  <td width="20%" align="center">
